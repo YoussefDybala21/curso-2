@@ -1,16 +1,16 @@
 header {
-color: rgb(255, 196, 0);
-background-color: rgb(125, 125, 123);
-text-align: center;
-max-width: 800px;
-margin: 0 auto;
-padding: 16px;
+    color: rgb(255, 196, 0);
+    background-color: rgb(125, 125, 123);
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
 }
 
 main {
-color: rgb(125, 125, 123);
-background-color: rgb(255, 196, 0);
-max-width: 800px;
-margin: 0 auto;
-padding: 16px;
+    color: rgb(125, 125, 123);
+    background-color: rgb(255, 196, 0);
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
 }
