@@ -1,3 +1,11 @@
+/* Fundo de toda a página */
+body {
+    background-color: #000000; /* Cor preta */
+    color: #ffffff;           /* Texto em branco para dar contraste */
+    font-family: Arial, sans-serif;
+}
+
+/* Seus estilos originais */
 h1 {
     color: rgb(255, 196, 0);
     background-color: rgb(125, 125, 123);
